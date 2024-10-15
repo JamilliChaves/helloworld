@@ -1,11 +1,11 @@
 #criando uma variavel
 
 '''
-Esse comentario pode ter ,uitas linhas
+Esse comentario pode ter muitas linhas
 '''
 
 """
-Esse comentário também pode ter muitas linas
+Esse comentário também pode ter muitas linhas
 """
 
 # Cria uma variavel usando "snake case"
@@ -18,3 +18,13 @@ corDaCasa = 'roxo'
 print('\n\n\n') # Pula linha
 print(cor_da_casa)
 print(corDaCasa)
+
+#Cria duas variaveis uma primeiro nome e ultimo nome
+firstName = 'Manu'
+lastName = 'Brito'
+
+#Imprime um nome
+print(firstName)
+print( lastName)
+#Imprime os dois nomes
+print(firstName, lastName)
